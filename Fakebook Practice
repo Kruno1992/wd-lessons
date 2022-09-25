@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <meta name="kewords" content="fakebook, profile, personal">
+
+          <title>Fakebook K. Škoro</title>
+      </head>
+
+      <body>
+      <center>
+          <Body background="https://cdnb.artstation.com/p/assets/images/images/015/609/791/large/artur-sadlos-leg-more-sh070-background-as-v001.jpg?1548954983&dl=1">
+          <h1><i>Fakebook</i></h1>
+          Look up for: <input type="text, number" placeholder="Search by name, postal code">
+
+
+          <hr>
+
+
+          <h3>Krunoslav Škoro</h3>
+          <img src="https://www.quirkybyte.com/wp-content/uploads/2020/12/131669012_197054722081220_8703331550318309475_n.jpg" width="300" height="200">
+
+
+          <br>
+          <br>
+          <br>
+          <button>Add Friend</button>
+          <br>
+
+          <hr>
+          <br>
+
+          <i><strong>City:</strong> Osijek</i><br>
+          <i><strong>Age:</strong> 29</i><br>
+          <i><strong>Education:</strong> Ekonomist(SSS), Zaštitar</i><br>
+          <i><strong>Friends:</strong> Over 9000</i><br>
+          <i><strong>Enemies:</strong> 0</i><br>
+
+
+
+      </center>
+      </body>
+</html>
